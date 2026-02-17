@@ -1,4 +1,9 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="120"> Netflix Landing Page Clone
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Netflix_icon.svg" width="90">
+</p>
+
+# Netflix Landing Page Clone
+
 
 A responsive **Netflix-inspired landing page clone** built using HTML and CSS.  
 This project focuses on frontend development, layout design, and responsive UI styling.
