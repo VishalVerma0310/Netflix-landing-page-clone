@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="favicon.ico" width="90">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="180">
 </p>
 
 # Netflix Landing Page Clone
