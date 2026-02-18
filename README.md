@@ -11,7 +11,7 @@ This project focuses on frontend development, layout design, and responsive UI s
 
 ## 🌐 Live Demo
 
-👉 https://vishalverma0310.github.io/netflix-landing-page-clone/
+👉 https://vishalverma0310.github.io/Netflix-landing-page-clone/
 
 ---
 
